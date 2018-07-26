@@ -14,6 +14,6 @@ class Detention
   end
   
   def remove_student(index)
-     @students.delete_at(index)
+     @students.
   end
 end
