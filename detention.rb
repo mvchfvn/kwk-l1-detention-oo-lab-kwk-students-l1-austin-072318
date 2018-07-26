@@ -6,6 +6,6 @@ class Detention
   end
   
   def activity 
-    return "collective_punishment"
+    return "collective punishment"
   end
 end
