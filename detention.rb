@@ -10,6 +10,6 @@ class Detention
   end
   
   def add_student(name)
-    student << name
+    @students << name
   end
 end
