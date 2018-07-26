@@ -2,7 +2,7 @@
 class Detention 
   attr_accessor :location, :time, :grumpy_teacher, :collective_punishment
   def initialize
-    students = []
+    @students = []
   end
   
   def activity 
