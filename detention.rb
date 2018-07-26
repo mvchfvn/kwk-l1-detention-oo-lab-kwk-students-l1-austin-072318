@@ -12,4 +12,8 @@ class Detention
   def add_student(name)
     @students << name
   end
+  
+  def remove_student(name)
+     m  nn
+  end
 end
