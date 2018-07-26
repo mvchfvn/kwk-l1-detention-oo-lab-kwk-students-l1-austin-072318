@@ -8,4 +8,8 @@ class Detention
   def activity 
     return "collective punishment"
   end
+  
+  def add_student(name)
+    student << name
+  end
 end
