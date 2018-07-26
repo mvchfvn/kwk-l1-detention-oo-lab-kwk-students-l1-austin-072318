@@ -15,7 +15,6 @@ class Detention
   
   def remove_student(name)
     @students = @students - [name]
-    puts @tudents
   end
 end
 
