@@ -13,7 +13,7 @@ class Detention
     @students << name
   end
   
-  def remove_student(name)
-     m  nn
+  def remove_student(index)
+     @students.delete_at(index)
   end
 end
